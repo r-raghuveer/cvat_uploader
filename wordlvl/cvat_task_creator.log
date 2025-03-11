@@ -1,0 +1,72 @@
+2025-02-21 11:33:36,454 - INFO - Starting JSONL to XML conversion...
+2025-02-21 11:34:19,864 - INFO - Initialized CVATTaskCreator with project ID 3
+2025-02-21 11:34:19,865 - INFO - Found 6 sub-folders with images.
+2025-02-21 11:34:19,865 - INFO - Creating task for NEST_Notification_5th_Cohort with 3 images.
+2025-02-21 11:34:22,907 - INFO - Successfully created task 'NEST_Notification_5th_Cohort'
+2025-02-21 11:34:22,908 - INFO - Creating task for 1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart with 4 images.
+2025-02-21 11:34:25,924 - INFO - Successfully created task '1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart'
+2025-02-21 11:34:25,924 - INFO - Creating task for How_20to_20_20Register with 7 images.
+2025-02-21 11:34:28,942 - INFO - Successfully created task 'How_20to_20_20Register'
+2025-02-21 11:34:28,943 - INFO - Creating task for Delhi-BRM-2025-schedule with 2 images.
+2025-02-21 11:34:31,953 - INFO - Successfully created task 'Delhi-BRM-2025-schedule'
+2025-02-21 11:34:31,953 - INFO - Creating task for women-iti-bhilai-durg with 8 images.
+2025-02-21 11:34:34,946 - INFO - Successfully created task 'women-iti-bhilai-durg'
+2025-02-21 11:34:34,946 - INFO - Creating task for BALANCE_SHEET_171-1261140283 with 2 images.
+2025-02-21 11:34:37,967 - INFO - Successfully created task 'BALANCE_SHEET_171-1261140283'
+2025-02-21 11:35:09,341 - INFO - Initialized CVATTaskCreator with project ID 3
+2025-02-21 11:35:09,341 - INFO - Starting JSONL to XML conversion...
+2025-02-21 11:35:09,341 - INFO - Found 6 subfolders: ['NEST_Notification_5th_Cohort', '1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart', 'How_20to_20_20Register', 'Delhi-BRM-2025-schedule', 'women-iti-bhilai-durg', 'BALANCE_SHEET_171-1261140283']
+2025-02-21 11:35:09,341 - WARNING - No JSONL files found in NEST_Notification_5th_Cohort, skipping.
+2025-02-21 11:35:09,341 - WARNING - No JSONL files found in 1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart, skipping.
+2025-02-21 11:35:09,341 - WARNING - No JSONL files found in How_20to_20_20Register, skipping.
+2025-02-21 11:35:09,341 - WARNING - No JSONL files found in Delhi-BRM-2025-schedule, skipping.
+2025-02-21 11:35:09,341 - WARNING - No JSONL files found in women-iti-bhilai-durg, skipping.
+2025-02-21 11:35:09,341 - WARNING - No JSONL files found in BALANCE_SHEET_171-1261140283, skipping.
+2025-02-21 11:35:09,341 - INFO - 🔹 Starting annotation import process...
+2025-02-21 11:35:09,764 - INFO - 🔹 Found 6 annotation subfolders: ['NEST_Notification_5th_Cohort', '1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart', 'How_20to_20_20Register', 'Delhi-BRM-2025-schedule', 'women-iti-bhilai-durg', 'BALANCE_SHEET_171-1261140283']
+2025-02-21 11:35:09,764 - WARNING - ⚠ No XML file found for task 'BALANCE_SHEET_171-1261140283' at '../Hard_wordlvl/BALANCE_SHEET_171-1261140283/BALANCE_SHEET_171-1261140283.xml'
+2025-02-21 11:35:09,764 - WARNING - ⚠ No XML file found for task 'women-iti-bhilai-durg' at '../Hard_wordlvl/women-iti-bhilai-durg/women-iti-bhilai-durg.xml'
+2025-02-21 11:35:09,764 - WARNING - ⚠ No XML file found for task 'Delhi-BRM-2025-schedule' at '../Hard_wordlvl/Delhi-BRM-2025-schedule/Delhi-BRM-2025-schedule.xml'
+2025-02-21 11:35:09,764 - WARNING - ⚠ No XML file found for task 'How_20to_20_20Register' at '../Hard_wordlvl/How_20to_20_20Register/How_20to_20_20Register.xml'
+2025-02-21 11:35:09,764 - WARNING - ⚠ No XML file found for task '1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart' at '../Hard_wordlvl/1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart/1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart.xml'
+2025-02-21 11:35:09,764 - WARNING - ⚠ No XML file found for task 'NEST_Notification_5th_Cohort' at '../Hard_wordlvl/NEST_Notification_5th_Cohort/NEST_Notification_5th_Cohort.xml'
+2025-02-21 11:36:21,458 - INFO - Initialized CVATTaskCreator with project ID 3
+2025-02-21 11:36:21,459 - INFO - Starting JSONL to XML conversion...
+2025-02-21 11:36:21,459 - INFO - Found 6 subfolders: ['NEST_Notification_5th_Cohort', '1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart', 'How_20to_20_20Register', 'Delhi-BRM-2025-schedule', 'women-iti-bhilai-durg', 'BALANCE_SHEET_171-1261140283']
+2025-02-21 11:36:21,478 - INFO - ✅ XML saved: ../Hard_wordlvl/NEST_Notification_5th_Cohort/results/NEST_Notification_5th_Cohort.xml
+2025-02-21 11:36:21,497 - INFO - ✅ XML saved: ../Hard_wordlvl/1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart/results/1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart.xml
+2025-02-21 11:36:21,517 - INFO - ✅ XML saved: ../Hard_wordlvl/How_20to_20_20Register/results/How_20to_20_20Register.xml
+2025-02-21 11:36:21,542 - INFO - ✅ XML saved: ../Hard_wordlvl/Delhi-BRM-2025-schedule/results/Delhi-BRM-2025-schedule.xml
+2025-02-21 11:36:21,566 - INFO - ✅ XML saved: ../Hard_wordlvl/women-iti-bhilai-durg/results/women-iti-bhilai-durg.xml
+2025-02-21 11:36:21,577 - INFO - ✅ XML saved: ../Hard_wordlvl/BALANCE_SHEET_171-1261140283/results/BALANCE_SHEET_171-1261140283.xml
+2025-02-21 11:36:21,577 - INFO - 🔹 Starting annotation import process...
+2025-02-21 11:36:22,021 - INFO - 🔹 Found 6 annotation subfolders: ['NEST_Notification_5th_Cohort', '1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart', 'How_20to_20_20Register', 'Delhi-BRM-2025-schedule', 'women-iti-bhilai-durg', 'BALANCE_SHEET_171-1261140283']
+2025-02-21 11:36:22,021 - WARNING - ⚠ No XML file found for task 'BALANCE_SHEET_171-1261140283' at '../Hard_wordlvl/BALANCE_SHEET_171-1261140283/BALANCE_SHEET_171-1261140283.xml'
+2025-02-21 11:36:22,021 - WARNING - ⚠ No XML file found for task 'women-iti-bhilai-durg' at '../Hard_wordlvl/women-iti-bhilai-durg/women-iti-bhilai-durg.xml'
+2025-02-21 11:36:22,021 - WARNING - ⚠ No XML file found for task 'Delhi-BRM-2025-schedule' at '../Hard_wordlvl/Delhi-BRM-2025-schedule/Delhi-BRM-2025-schedule.xml'
+2025-02-21 11:36:22,021 - WARNING - ⚠ No XML file found for task 'How_20to_20_20Register' at '../Hard_wordlvl/How_20to_20_20Register/How_20to_20_20Register.xml'
+2025-02-21 11:36:22,021 - WARNING - ⚠ No XML file found for task '1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart' at '../Hard_wordlvl/1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart/1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart.xml'
+2025-02-21 11:36:22,021 - WARNING - ⚠ No XML file found for task 'NEST_Notification_5th_Cohort' at '../Hard_wordlvl/NEST_Notification_5th_Cohort/NEST_Notification_5th_Cohort.xml'
+2025-02-21 11:37:41,779 - INFO - Initialized CVATTaskCreator with project ID 3
+2025-02-21 11:37:41,779 - INFO - Starting JSONL to XML conversion...
+2025-02-21 11:37:41,779 - INFO - Found 6 subfolders: ['NEST_Notification_5th_Cohort', '1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart', 'How_20to_20_20Register', 'Delhi-BRM-2025-schedule', 'women-iti-bhilai-durg', 'BALANCE_SHEET_171-1261140283']
+2025-02-21 11:37:41,790 - INFO - ✅ XML saved: ../Hard_wordlvl/NEST_Notification_5th_Cohort/results/NEST_Notification_5th_Cohort.xml
+2025-02-21 11:37:41,801 - INFO - ✅ XML saved: ../Hard_wordlvl/1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart/results/1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart.xml
+2025-02-21 11:37:41,812 - INFO - ✅ XML saved: ../Hard_wordlvl/How_20to_20_20Register/results/How_20to_20_20Register.xml
+2025-02-21 11:37:41,825 - INFO - ✅ XML saved: ../Hard_wordlvl/Delhi-BRM-2025-schedule/results/Delhi-BRM-2025-schedule.xml
+2025-02-21 11:37:41,838 - INFO - ✅ XML saved: ../Hard_wordlvl/women-iti-bhilai-durg/results/women-iti-bhilai-durg.xml
+2025-02-21 11:37:41,844 - INFO - ✅ XML saved: ../Hard_wordlvl/BALANCE_SHEET_171-1261140283/results/BALANCE_SHEET_171-1261140283.xml
+2025-02-21 11:37:41,844 - INFO - 🔹 Starting annotation import process...
+2025-02-21 11:37:42,302 - INFO - 🔹 Found 6 annotation subfolders: ['NEST_Notification_5th_Cohort', '1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart', 'How_20to_20_20Register', 'Delhi-BRM-2025-schedule', 'women-iti-bhilai-durg', 'BALANCE_SHEET_171-1261140283']
+2025-02-21 11:37:47,564 - INFO - Annotation file '../Hard_wordlvl/BALANCE_SHEET_171-1261140283/results/BALANCE_SHEET_171-1261140283.xml' for task #67 uploaded
+2025-02-21 11:37:47,564 - INFO - ✅ Successfully imported annotations for 'BALANCE_SHEET_171-1261140283' from '../Hard_wordlvl/BALANCE_SHEET_171-1261140283/results/BALANCE_SHEET_171-1261140283.xml'
+2025-02-21 11:37:52,818 - INFO - Annotation file '../Hard_wordlvl/women-iti-bhilai-durg/results/women-iti-bhilai-durg.xml' for task #66 uploaded
+2025-02-21 11:37:52,818 - INFO - ✅ Successfully imported annotations for 'women-iti-bhilai-durg' from '../Hard_wordlvl/women-iti-bhilai-durg/results/women-iti-bhilai-durg.xml'
+2025-02-21 11:37:58,110 - INFO - Annotation file '../Hard_wordlvl/Delhi-BRM-2025-schedule/results/Delhi-BRM-2025-schedule.xml' for task #65 uploaded
+2025-02-21 11:37:58,110 - INFO - ✅ Successfully imported annotations for 'Delhi-BRM-2025-schedule' from '../Hard_wordlvl/Delhi-BRM-2025-schedule/results/Delhi-BRM-2025-schedule.xml'
+2025-02-21 11:38:03,399 - INFO - Annotation file '../Hard_wordlvl/How_20to_20_20Register/results/How_20to_20_20Register.xml' for task #64 uploaded
+2025-02-21 11:38:03,399 - INFO - ✅ Successfully imported annotations for 'How_20to_20_20Register' from '../Hard_wordlvl/How_20to_20_20Register/results/How_20to_20_20Register.xml'
+2025-02-21 11:38:08,667 - INFO - Annotation file '../Hard_wordlvl/1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart/results/1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart.xml' for task #63 uploaded
+2025-02-21 11:38:08,667 - INFO - ✅ Successfully imported annotations for '1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart' from '../Hard_wordlvl/1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart/results/1612526744217-Provisional_20Seniority_20list_20of_20LP_20(S)_20Gr.II_20of_20Elect.(OP)_20depart.xml'
+2025-02-21 11:38:13,934 - INFO - Annotation file '../Hard_wordlvl/NEST_Notification_5th_Cohort/results/NEST_Notification_5th_Cohort.xml' for task #62 uploaded
+2025-02-21 11:38:13,934 - INFO - ✅ Successfully imported annotations for 'NEST_Notification_5th_Cohort' from '../Hard_wordlvl/NEST_Notification_5th_Cohort/results/NEST_Notification_5th_Cohort.xml'

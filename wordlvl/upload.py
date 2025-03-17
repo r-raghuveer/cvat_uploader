@@ -7,11 +7,11 @@ IMAGE_DIR = "../Hard_wordlvl"
 PROJECT_ID = 3  # Check from CVAT GUI
 CVAT_USERNAME = "Raghuveer"
 CVAT_PASSWORD = "raghuveer"
-SERVER_HOST = "http://10.2.192.138"
+SERVER_HOST = "http://103.207.148.38/"
 SERVER_PORT = 8080
 OUTPUT_DIR = "WordlvlXMLs"  # Local directory for storing exported XML files
 IMPORT_FORMAT = "CVAT 1.1"
-#EXPORT_FORMAT = "CVAT for video 1.1"
+#EXPORT_FORMAT = 
 
 # Initialize and run the task creator
 cvat_creator = CVATTaskCreator(

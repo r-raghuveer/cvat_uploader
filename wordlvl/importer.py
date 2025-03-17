@@ -149,7 +149,7 @@ class JSONLToXMLConverter:
                                         xtl, ytl = min(x_coords), min(y_coords)
                                         xbr, ybr = max(x_coords), max(y_coords)
 
-                                        ET.SubElement(image, "box", label="BBox", source="manual", occluded="0",
+                                        ET.SubElement(image, "box", label="BBox", source="automated", occluded="0",
                                                       xtl=str(xtl), ytl=str(ytl), xbr=str(xbr), ybr=str(ybr), z_order="0")
 
             except Exception as e:

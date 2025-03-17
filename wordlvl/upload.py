@@ -5,8 +5,8 @@ from importer import CVATAnnotationHandler, JSONLToXMLConverter
 # Configuration
 IMAGE_DIR = "../Hard_wordlvl"
 PROJECT_ID = 3  # Check from CVAT GUI
-CVAT_USERNAME = "raghuveer.r@tihiitb.org"
-CVAT_PASSWORD = "raghuveer2004@"
+CVAT_USERNAME = "Raghuveer"
+CVAT_PASSWORD = "raghuveer"
 SERVER_HOST = "http://10.2.192.138"
 SERVER_PORT = 8080
 OUTPUT_DIR = "WordlvlXMLs"  # Local directory for storing exported XML files

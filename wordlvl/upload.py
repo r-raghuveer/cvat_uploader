@@ -4,7 +4,7 @@ from importer import CVATAnnotationHandler, JSONLToXMLConverter
 
 # Configuration
 IMAGE_DIR = "../Hard_wordlvl"
-PROJECT_ID = 3  # Check from CVAT GUI
+PROJECT_ID = 1  # Check from CVAT GUI
 CVAT_USERNAME = "Raghuveer"
 CVAT_PASSWORD = "raghuveer"
 SERVER_HOST = "http://103.207.148.38/"
